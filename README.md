@@ -23,8 +23,8 @@ BTech. Chemical Engineering | Heritage Institute of Technnology, IN | _Aug 2014 
 -	Conducted data pre-processing, cleaning, and wrangling to prepare data for modelling.
 -	Gained experience with data visualisation and Exploratory Data Analysis.
 -	Identified, analysed, and interpreted trends in complex datasets using supervised and unsupervised learning.
--	Contributed to the development of predictive models to solve problems such as employee attrition and success of marketing campaigns.
--	Developed effective visualisations to communicate complex technical concepts to stakeholders.
+-	Developed predictive models to solve problems such as employee attrition and success of marketing campaigns.
+-	Created effective visualisations to communicate complex technical concepts to stakeholders.
 
 **Senior Software Engineer @ Infosys Limited | Mysore, IN | _Nov 2018 - Sep 2021_**
 -	Led the development and testing of real-time web applications belonging to various domains using Java, Spring Boot, Spring Data, Spring REST API, Angular, MySQL, JUnit, Git and Jenkins using Agile scrum methodology.
