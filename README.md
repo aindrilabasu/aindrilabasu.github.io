@@ -70,6 +70,6 @@ Analysed a subset of the serial killer dataset from Radford/FGCU serial killer d
 
 The intial hypothesis that the mean age of first kill is 27 years was rejected for all motives after conducting the respective tests. The comparison of different populations was performed using two-sample hypothesis test by considering a pair of motives. While it was concluded that the Age at First Kill was not the same for "Anger" and "Enjoyment or power" motives (by rejecting the null hypothesis), for the motives "Anger" and "Convenience" as well as "Convenience" and "Enjoyment or power", we failed to reject the null hypothesis.
 
-
+![Serial Killer](/assets/img/serial-killer.jpg)
 
 
