@@ -49,4 +49,4 @@ Developed a recommendation engine as a product for a fashion retailer, through t
 
 Worked with an image to text model to understand the principles of text-pre-processing and vocabulary building using a subset of COCO dataset used for image caption generation. Used two different text similarity metrics like Bleu Score and Cosine Similarity for evaluation of the model.
 
-![Image Caption Generation]()
+![Image Caption Generation](/assets/img/encoder_decoder_diagramv2022.png)
