@@ -33,7 +33,7 @@ BTech. Chemical Engineering | Heritage Institute of Technnology, IN | _Aug 2014 
 
 
 ## Projects
-**Recommender Systems: Implementation and Evaluation**
+### Recommender Systems: Implementation and Evaluation
 
 <a href="https://www.mrs.org.uk/blog/gkb/recommender-systems-implementation-and-evaluation"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/file-lines.svg" width="20" height="20"></a>
 <a href="https://github.com/aindrilabasu/recommender_systems"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="20" height="20"></a>
