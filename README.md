@@ -62,6 +62,7 @@ Predicted cancer mortality rates in "unseen" US counties using several regressio
 
 ![Cancer Mortality Prediction](/assets/img/cancer.jpg)
 
+</br>
 
 ### Investigating how the age of serial killers at the time of thir first offence varies with their motives
 
