@@ -35,7 +35,6 @@ BTech. Chemical Engineering | Heritage Institute of Technnology, IN | _Aug 2014 
 ## Projects
 **Recommender Systems: Implementation and Evaluation**
 
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/file-lines.svg" width="20" height="20" href="https://www.mrs.org.uk/blog/gkb/recommender-systems-implementation-and-evaluation">
 <i class="fa-solid fa-file-lines"></i>
 
 Developed a recommendation engine as a product for a fashion retailer, through the use of a combination of content-based and collaborative filtering algorithms and customer and product data, including historical customer transactions. Identified the best item recommendation strategy for the retailer by developing various recommender systems based on the same dataset but using different (technical and marketing) strategies and comparing them to each other. Demonstrated how the generated recommendations can be aligned with the business and marketing strategies of the retailer to promote specific products.
