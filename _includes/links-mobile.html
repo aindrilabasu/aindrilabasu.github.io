@@ -11,6 +11,6 @@
     </style> -->
     {%- for platform in site.sidebar %}
     <nobr><a href="{{ platform.link }}" rel="me">{{ platform.name }}</a>
-    {%- unless forloop.last %}  {% endunless %}</nobr>
+    {%- unless forloop.last %} / {% endunless %}</nobr>
     {%- endfor %}
 </div>
