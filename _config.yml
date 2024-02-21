@@ -3,7 +3,7 @@ logo: /assets/img/head-shot.jpg
 email: aindrila.b28@gmail.com
 description: ""
 show_downloads: false
-remote_theme: BDHU/minimalist
+remote_theme: pages-themes/minimal@v0.2.0
 color-scheme: auto
 plugins:
   - jekyll-sitemap
