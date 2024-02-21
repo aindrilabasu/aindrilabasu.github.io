@@ -64,7 +64,11 @@ Predicted cancer mortality rates in "unseen" US counties using several regressio
 
 ![Cancer Mortality Prediction](/assets/img/cancer.jpg)
 
+### Investigating how the age of serial killers at the time of thir first offence varies with their motives
 
+Analysed a subset of the serial killer dataset from Radford/FGCU serial killer database after cleaning and feature engineering. Both numerical and graphical summaries were explored for the significant variables: Age at first kill, Age at last kill and Career duration. The relationship between these variables were then established and parameters of the proposed models were estimated using Method of Moments Estimator. Then the distribution for each of the motives (Anger, Convenience, Enjoyment or power) was studied to determine the type of test to be used for hypothesis testing.
+
+The intial hypothesis that the mean age of first kill is 27 years was rejected for all motives after conducting the respective tests. The comparison of different populations was performed using two-sample hypothesis test by considering a pair of motives. While it was concluded that the Age at First Kill was not the same for "Anger" and "Enjoyment or power" motives (by rejecting the null hypothesis), for the motives "Anger" and "Convenience" as well as "Convenience" and "Enjoyment or power", we failed to reject the null hypothesis.
 
 
 
