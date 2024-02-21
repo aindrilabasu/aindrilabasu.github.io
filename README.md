@@ -30,3 +30,12 @@ BTech. Chemical Engineering | Heritage Institute of Technnology, IN | _Aug 2014 
 -	Led the development and testing of real-time web applications belonging to various domains using Java, Spring Boot, Spring Data, Spring REST API, Angular, MySQL, JUnit, Git and Jenkins using Agile scrum methodology.
 -	Created and reviewed learning content on Java, Spring Boot and Microservices that spans around 100 learning hours.
 -	Trained and assessed new recruits in programming languages like Java and Python.
+
+
+## Projects
+**Recommender Systems: Implementation and Evaluation**
+[Publication](https://www.mrs.org.uk/blog/gkb/recommender-systems-implementation-and-evaluation)
+
+Developed a recommendation engine as a product for a fashion retailer, through the use of a combination of content-based and collaborative filtering algorithms and customer and product data, including historical customer transactions. Identified the best item recommendation strategy for the retailer by developing various recommender systems based on the same dataset but using different (technical and marketing) strategies and comparing them to each other. Demonstrated how the generated recommendations can be aligned with the business and marketing strategies of the retailer to promote specific products.
+
+![Recommender Systems]
