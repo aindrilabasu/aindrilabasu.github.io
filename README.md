@@ -49,4 +49,10 @@ Developed a recommendation engine as a product for a fashion retailer, through t
 
 Worked with an image to text model to understand the principles of text-pre-processing and vocabulary building using a subset of COCO dataset used for image caption generation. Used two different text similarity metrics like Bleu Score and Cosine Similarity for evaluation of the model.
 
+The basic principle of the image-to-text model is as pictured in the diagram below, where an Encoder network encodes the input image as a feature vector by providing the outputs of the last fully-connected layer of a pre-trained CNN (we use ResNet-152). This pretrained network has been trained on the complete ImageNet dataset and is thus able to recognise common objects.
+
+These features are then fed into a Decoder network along with the reference captions. As the image feature dimensions are large and sparse, the Decoder network includes a linear layer which downsizes them, followed by a batch normalisation layer to speed up training. Those resulting features, as well as the reference text captions, are passed into a recurrent network (we use an RNN).
+
+The training was made more efficient by decoupling the encoder and decoder networks. The first step was to extract the feature representations of the images from the Encoder and save them. During training of the Decoder, we only needed to iterate over the image feature data and the reference captions.
+
 ![Image Caption Generation](/assets/img/encoder_decoder_diagramv2022.png)
