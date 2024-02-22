@@ -2,13 +2,15 @@
 
 #### Technical Skills: Python, R, SQL, Power BI, Tableau, Excel
 
+<br>
 
 ## Education
 
-MSc. Data Science and Analytics | University of Leeds, UK | _Sep 2021 - Sep 2022_
+MSc. Data Science and Analytics | University of Leeds, UK | _Sep 2021 - Sep 2022_ | Grade: Distinction
 
-BTech. Chemical Engineering | Heritage Institute of Technnology, IN | _Aug 2014 - Jun 2018_
+BTech. Chemical Engineering | Heritage Institute of Technnology, IN | _Aug 2014 - Jun 2018_ | GPA: 8.71
 
+<br>
 
 ## Work Experience
 **Data Scientist 2 @ Sagentia Innovation | Epsom, UK | _Oct 2022 - Present_**
@@ -29,6 +31,7 @@ BTech. Chemical Engineering | Heritage Institute of Technnology, IN | _Aug 2014 
 -	Created and reviewed learning content on Java, Spring Boot and Microservices that spans around 100 learning hours.
 -	Trained and assessed new recruits in programming languages like Java and Python.
 
+<br>
 
 ## Projects
 ### Recommender Systems: Implementation and Evaluation
